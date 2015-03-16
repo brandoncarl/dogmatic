@@ -1,0 +1,31 @@
+{
+  "name": "dogmatic",
+  "version": "0.0.0",
+  "description": "Highly opinionated modules for io.js and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brandoncarl/dogmatic"
+  },
+  "keywords": [
+    "express",
+    "authentication",
+    "view",
+    "rendering",
+    "templating",
+    "logging",
+    "errors"
+  ],
+  "author": "Brandon Carl (http://www.brandoncarl.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandoncarl/dogmatic/issues"
+  },
+  "homepage": "https://github.com/brandoncarl/dogmatic",
+  "dependencies": {
+    "dogmatic-views": "0.0.3"
+  }
+}
