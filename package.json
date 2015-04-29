@@ -1,6 +1,6 @@
 {
   "name": "dogmatic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Highly opinionated modules for io.js and Node",
   "main": "index.js",
   "scripts": {
