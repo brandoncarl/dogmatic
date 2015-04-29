@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/brandoncarl/dogmatic",
   "dependencies": {
-    "dogmatic-views": "0.0.3"
+    "dogmatic-views": "0.0.4"
   }
 }
